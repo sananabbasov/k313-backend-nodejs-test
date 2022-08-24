@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Money Heist",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "release_date": 1994,
+        "duration": "2h 22",
+        "image": "https://cdn.pixabay.com/photo/2020/04/08/15/50/tv-5017870_960_720.jpg",
+        "seasons":[
+            {
+                "season" : 1,
+                "episodes":[
+                    {
+                        "name":"Efectuar lo acordado",
+                        "trailer":""
+                    },
+                    {
+                        "name":"Imprudencias letales",
+                        "trailer":""
+                    }
+                ]      
+            },
+            {
+                "season" : 2,
+                "episodes":[
+                    {
+                        "name":"Se acabaron las máscaras",
+                        "trailer":""
+                    },
+                    {
+                        "name":"La cabeza del plan",
+                        "trailer":""
+                    }
+                ]      
+            }
+        ],
+        "category": "Drama"
+    }
+]

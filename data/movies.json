@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "name": "The Shawshank Redemption",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "release_date": 1994,
+        "duration": "2h 22",
+        "image": "https://cdn.pixabay.com/photo/2020/04/08/15/50/tv-5017870_960_720.jpg",
+        "trailer": "",
+        "categories": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Action"
+            }
+        ],
+        "imdb": 9.2
+    },
+    {
+        "id": 2,
+        "name": "Blood Diamond",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "release_date": 2006,
+        "duration": "2h 23",
+        "image": "https://cdn.pixabay.com/photo/2020/04/08/15/50/tv-5017870_960_720.jpg",
+        "trailer": "",
+        "category": "Crime",
+        "imdb": 8.0
+    },
+    {
+        "id": 3,
+        "name": "The Intouchables",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "release_date": 2011,
+        "duration": "1h 52",
+        "image": "https://cdn.pixabay.com/photo/2020/04/08/15/50/tv-5017870_960_720.jpg",
+        "trailer": "",
+        "category": "Drama",
+        "imdb": 8.5
+    },
+    {
+        "id": 4,
+        "name": "Devil's Pass",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "release_date": 2013,
+        "duration": "1h 40",
+        "image": "https://cdn.pixabay.com/photo/2020/04/08/15/50/tv-5017870_960_720.jpg",
+        "trailer": "",
+        "category": "Drama",
+        "imdb": 5.7
+    }
+]
