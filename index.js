@@ -2,6 +2,7 @@ const express = require('express')
 const cors = require('cors')
 const movies = require('./data/movies.json')
 const series = require('./data/series.json')
+const categories =  require('./data/categories.json')
 const e = require('express')
 const app = express()
 app.use(cors())
@@ -18,6 +19,9 @@ app.get('/series', function (req, res) {
     }
 })
 
+app.get('/categories', function (req, res) {
+    res.send(categories)
+})
 
 
 app.listen(5000)
